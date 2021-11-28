@@ -1,0 +1,13 @@
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.exe
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.deps.json
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.json
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.dev.json
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.dll
+C:\Users\VoN\source\repos\Constants\Constants\bin\Debug\netcoreapp3.1\Constants.pdb
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfoInputs.cache
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfo.cs
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.csproj.CoreCompileInputs.cache
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.dll
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.pdb
+C:\Users\VoN\source\repos\Constants\Constants\obj\Debug\netcoreapp3.1\Constants.genruntimeconfig.cache
