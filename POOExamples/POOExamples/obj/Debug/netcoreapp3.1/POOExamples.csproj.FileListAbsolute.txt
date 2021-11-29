@@ -1,0 +1,14 @@
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.exe
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.deps.json
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.runtimeconfig.json
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.runtimeconfig.dev.json
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.dll
+C:\Users\VoN\source\repos\POOExamples\POOExamples\bin\Debug\netcoreapp3.1\POOExamples.pdb
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.csproj.AssemblyReference.cache
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.AssemblyInfoInputs.cache
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.AssemblyInfo.cs
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.csproj.CoreCompileInputs.cache
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.dll
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.pdb
+C:\Users\VoN\source\repos\POOExamples\POOExamples\obj\Debug\netcoreapp3.1\POOExamples.genruntimeconfig.cache
