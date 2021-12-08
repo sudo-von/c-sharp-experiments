@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Math;
+using static System.Console;
 
 namespace POOConcepts
 {
@@ -7,7 +9,25 @@ namespace POOConcepts
         static void Main(string[] args)
         {
             // TODO: Check to do list.
-            doWork();
+            //doWork();
+            double root = Sqrt(9);
+            double pow = Pow(3, 4);
+            WriteLine($"root: {root}");
+            WriteLine($"pow: {pow}");
+            // --------- anonymous class --------------
+            var myVar = new { Name = "VoN", Age = 24 };
+            Console.WriteLine($"Name: {myVar.Name} - Age: {myVar.Age}");
+            // They belong to the same anonymous class.
+            var anotherVar = new { Name = "Sudo", Age = 25 };
+            Console.WriteLine($"Name: {anotherVar.Name} - Age: {anotherVar.Age}");
+            myVar = anotherVar;
+            Console.WriteLine($"Name: {myVar.Name} - Age: {myVar.Age}");
+            /*
+             * Only contains public fields.
+             * All fields must be initialized.
+             * Fields can't be static.
+             * Cant' define methods.
+             */
         }
 
         static void doWork()
