@@ -10,11 +10,13 @@ namespace POOConcepts
         {
             this.x = x;
             this.y = y;
+            objectCounter++;
         }
         public Dot()
         {
             this.x = 0;
             this.y = 0;
+            objectCounter++;
         }
 
         public double getDistance(Dot anotherDot)
@@ -25,6 +27,10 @@ namespace POOConcepts
             return distance;
         }
 
+        public static int getObjectCounter() => objectCounter;
+
         private int x, y;
+        private static int objectCounter = 0;
+        public const int constantTest = 7;
     }
 }
