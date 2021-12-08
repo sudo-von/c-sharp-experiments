@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VoN\\source\\repos\\POOConcepts\\POOConcepts\\POOConcepts.csproj",
+      "projectUniqueName": "C:\\Users\\VoN\\source\\repos\\Github\\POO\\POOConcepts\\POOConcepts\\POOConcepts.csproj",
       "projectName": "POOConcepts",
-      "projectPath": "C:\\Users\\VoN\\source\\repos\\POOConcepts\\POOConcepts\\POOConcepts.csproj",
+      "projectPath": "C:\\Users\\VoN\\source\\repos\\Github\\POO\\POOConcepts\\POOConcepts\\POOConcepts.csproj",
       "packagesPath": "C:\\Users\\VoN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VoN\\source\\repos\\POOConcepts\\POOConcepts\\obj\\",
+      "outputPath": "C:\\Users\\VoN\\source\\repos\\Github\\POO\\POOConcepts\\POOConcepts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
